@@ -24,3 +24,15 @@
   - 버드나무 Points 색상 그라데이션, 입자 운동
   - 바닥 Floor Points 오브젝트 중앙 입자 밀도 조절, 중심 기준 회전
   - 마우스 인터렉션 보간 적용(Camera Control)
+
+
+
+#### 제작 과정
+|1|2|
+|-|-|
+|![image](https://github.com/user-attachments/assets/a6cea46b-2742-4d0b-bafc-bf4001f2a194)|![image](https://github.com/user-attachments/assets/04fb8d83-563b-4a79-ab52-b4da3491e660)|
+
+|3|4|
+|-|-|
+|![image](https://github.com/user-attachments/assets/383c4fc5-86c2-47c9-9550-40e3329c6122)|![image](https://github.com/user-attachments/assets/6e15fa2f-3e24-4fdc-8f03-f9e7dc24381b)|
+
